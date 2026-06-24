@@ -1,1 +1,1 @@
-# risk-aware-financial-misinformation-detection
+# FinVerify — Agentic AI for Financial Misinformation Detection
